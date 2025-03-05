@@ -346,6 +346,4 @@ def main():
         result, json_output = ocr(single_img_doc)
         display(result, json_output, uploaded_file)
 
-
-if _name_ == "_main_":
-    main()
+main()
