@@ -4,6 +4,9 @@ pandas
 opencv-python-headless
 Pillow
 python-docx
-doctr[torch]
+torch
+torchvision
+tensorflow
+python-doctr[torch]
 scikit-learn
 xlsxwriter
